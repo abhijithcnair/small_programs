@@ -12,7 +12,7 @@ def test(value):
     for j in range(2,value):
         if j not in l1:
             l2.append(j)
-    print l1
+    print l2
 def main():
     print "enter a value"
     value=int(raw_input())
