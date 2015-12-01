@@ -12,3 +12,4 @@ def main():
     print hcf
     print lcm
 main()
+ 
